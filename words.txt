@@ -20,9 +20,9 @@ chemin de fer : railway
 commercial : commercial 
 cheminée : chimney
 cheminée intérieure : fireplace
-commode : convenient,handy, sultable
+commode : convenient, handy, suitable
 chemise : shirt
-chemise de nuit: nightdress
+chemise de nuit : nightdress
 commun : common; ordinary; public
 chèque : check
 carnet de chèque : check book
